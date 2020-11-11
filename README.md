@@ -1,4 +1,4 @@
-####antd>select component show slow on focus, use virtual scroll to slove it
+#### antd>select component show slow on focus, use virtual scroll to slove it
 + 1. npm i virtual-antd-select
 + 2. import { VSelect } from 'virtual-antd-select'
 + 3. <VSelect ...props>

@@ -2,7 +2,8 @@
 + 1. npm i virtual-antd-select
 + 2. import { VSelect } from 'virtual-antd-select'
 + 3. <VSelect ...props>
-> javascript  
+
+#### 通过虚拟滚动技术解决antd的select组件在大数据量的情况下获焦下拉卡顿问题，相关属性如下
   VSelect props
   /**
    * Select的showSearch，是否可以输入检索

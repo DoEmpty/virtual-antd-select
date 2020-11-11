@@ -1,0 +1,23 @@
+.vselect {
+  min-width: 100px;
+}
+
+.vselect-drop-down {
+  max-height: 250px;
+}
+
+.vselect-drop-down>div {
+  max-height: 250px;
+}
+
+.ant-select-dropdown-menu {
+  max-height: none;
+}
+
+.top-obs-el {
+  padding: 1px 0 0 0;
+}
+
+.bottom-obs-el {
+  padding: 1px 0 0 0;
+}

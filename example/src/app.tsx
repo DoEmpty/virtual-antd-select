@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react';
-import { VSelect } from '../../src/index';
+import VSelect from '../../src/index';
 
 const App = (props:any) => {
 
